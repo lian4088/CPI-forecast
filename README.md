@@ -2,6 +2,14 @@
 # CPI Forecast Project
 
 This project aims to forecast the U.S. Consumer Price Index (CPI) over a 12-month horizon using two statistical models: an AR(4) component model and a corporate bond spread-based ADL(2) model. The models are implemented in STATA, and the project includes data cleaning, forecasting, interval estimation, and model comparison.
+## 📈 Forecast Plots
+
+### AR(4) Component Model Forecast  
+![AR Forecast](img/CPI%20forecast%20with%20AR(4).jpg)
+
+
+### Corporate ADL(2) Model Forecast  
+![AR Forecast](img/cpi_forecast_ADL2.jpg)
 
 ## 📁 Project Structure
 
