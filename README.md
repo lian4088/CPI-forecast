@@ -45,4 +45,4 @@ Lian Lian (2024). Forecasting CPI: A Comparative Study on U.S. Inflation Rate wi
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to reach out: xlian8@wisc.edu
+For questions or collaboration, feel free to reach out: xlian408@gmail.com
