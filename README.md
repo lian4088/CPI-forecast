@@ -5,11 +5,10 @@ This project aims to forecast the U.S. Consumer Price Index (CPI) over a 12-mont
 ## 📈 Forecast Plots
 
 ### AR(4) Component Model Forecast  
-![AR Forecast](img/CPI%20forecast%20with%20AR(4).jpg)
-
+![AR Forecast](image/CPI%20forecast%20with%20AR(4).jpg)
 
 ### Corporate ADL(2) Model Forecast  
-![AR Forecast](img/cpi_forecast_ADL2.jpg)
+![AR Forecast](image/cpi_forecast_ADL2.jpg)
 
 ## 📁 Project Structure
 
